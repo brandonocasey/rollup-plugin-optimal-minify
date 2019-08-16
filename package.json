@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-optimal-minify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Determine wether uglify or terser with any number of passes is better at run time.",
   "main": "index.js",
   "scripts": {
